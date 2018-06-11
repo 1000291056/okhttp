@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kdxio">
+    <CLASSES>
+      <root url="jar://D:/tool/jarjar/kdxio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

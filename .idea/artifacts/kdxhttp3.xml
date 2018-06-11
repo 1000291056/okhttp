@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kdxhttp3">
+    <output-path>$PROJECT_DIR$/out/artifacts/kdxhttp3</output-path>
+    <root id="archive" name="kdxhttp3.jar">
+      <element id="module-output" name="okhttp" />
+      <element id="extracted-dir" path="D:/tool/jarjar/kdxio.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
